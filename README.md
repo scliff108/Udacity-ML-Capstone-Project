@@ -5,7 +5,7 @@ This GitHub Repository contains my final project for Udacity's Machine Learning 
 This is a Stock Price Predictor. It uses Amazon's DeepAR algorithm to create a model and forecast future stock prices. This repository contains a [Jupiter Notebook](./stock-forecasting-deepar.ipynb) used to gather the data, train a model, and evaluate it. This notebook also contains a web app which can be deployed to predict stock prices up to 30 trading days in the future.
 
 - [Report](./report.pdf)
-- [Jupter Notebook](./stock-forecasting-deepar.ipynb)
+- [Jupiter Notebook](./stock-forecasting-deepar.ipynb)
 
 # Web App Setup Instructions
 
